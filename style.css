@@ -30,6 +30,12 @@ html {
 	margin: 0 auto;
 }
 
+.action_box {
+	width: 15%;
+	margin: 8% 0 0% 5%;
+	float: left;
+}
+
 .input-group-addon {
 	background-color: #158cba !important;
 	color: white !important;
